@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+  dogs = ["Husky", "Corgi", "German Shepherd", "Samoyed"]
 def create_an_array
   Array.new
 end
